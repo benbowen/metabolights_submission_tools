@@ -1,0 +1,2 @@
+# metabolights_submission_tools
+The Metabolights data repository supports a diverse experimental description through means of "ISA tab" files.  This format is a collection of tab-delimited text files that explain a Investigation, Study, and Assay.  For metabolomics researchers, this provides detailed descriptions of experimental parameters, chromatography, mass spectrometry, and metabolites detected.   The challenge is making the submission of this large amount of descriptive information quick and painless.  Here are the tools I use to lower the barrier to submission.
